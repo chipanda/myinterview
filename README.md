@@ -1,0 +1,2 @@
+# myinterview
+javascript example
